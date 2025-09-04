@@ -1,4 +1,4 @@
-戏曲,#genre#
+戏曲电影,#genre#
 红楼梦01,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
 红楼梦02,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
 穆桂英大战洪州,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
@@ -94,7 +94,7 @@
 林海雪原,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
 
 
-戏曲全本,#genre#
+戏曲电影全本,#genre#
 五岩山,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/c8d49a4313254e83ab798a282dc0984c/main.m3u8?maxbr=2048
 墙头记,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/88c4a5afeea34a7e8b056b4aea5ede44/main.m3u8?maxbr=2048
 小女婿,https://hls.cntv.kcdnvip.com/asp/hls/main/0303000a/3/default/5a8162c862c645ecbd4fda6dac6b4b32/main.m3u8?maxbr=2048
@@ -190,3 +190,4 @@
 王华买爹第3集,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/55da4c403d2ea51fa5602f304d4febc3.mp4
 王华买爹第6集,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/27bfba291a0fb4f0bce5377b27f709f5.mp4
 王华买爹第7集,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/92fa5f80e4dc70d3fdea32b0c386a821.mp4
+
